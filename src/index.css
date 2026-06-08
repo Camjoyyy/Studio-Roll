@@ -1,0 +1,4 @@
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+body { -webkit-font-smoothing: antialiased; overscroll-behavior: none; background: #faf8f5; }
+button { cursor: pointer; }
+select, input { font-family: inherit; }
